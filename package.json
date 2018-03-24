@@ -1,7 +1,7 @@
 {
-  "name": "new",
+  "name": "udemireact",
   "version": "1.0.0",
-  "description": "",
+  "description": "UdemiReact",
   "keywords": [],
   "homepage": "https://codesandbox.io/s/new",
   "main": "src/index.js",
