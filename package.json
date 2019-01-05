@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "UdemiReact",
   "keywords": [],
-  "homepage": "https://codesandbox.io/codesandbox",
+  "homepage": "https://codesandbox.io/codesandbox/",
   "main": "src/index.js",
   "dependencies": {
     "bootstrap": "4.0.0",
